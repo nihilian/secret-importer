@@ -1,0 +1,59 @@
+# Debug files
+*.dSYM/
+*.idb
+*.pdb
+*.su
+
+# Executables
+*.app
+*.exe
+*.hex
+*.i*86
+*.out
+*.x86_64
+secret-importer
+
+# GNU Build System
+.deps/
+autom4te.cache/
+aclocal.m4
+autoscan.log
+compile
+config.log
+config.status
+configure
+configure.scan
+depcomp
+install-sh
+Makefile
+Makefile.in
+missing
+
+# Libraries
+*.a
+*.la
+*.lib
+*.lo
+
+# Linker output
+*.exp
+*.ilk
+*.map
+
+# Object files
+*.elf
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Prerequisites
+*.d
+
+# Shared objects
+*.dll
+*.dylib
+*.so
+*.so.*
